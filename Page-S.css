@@ -1,0 +1,17 @@
+body{
+        background-color: #7522fa;
+        color: white;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        min-height: 100vh;
+}
+button{
+    border-radius: 15px;
+}
+
+.PSB{
+    text-align: center;
+    color: white;
+}
